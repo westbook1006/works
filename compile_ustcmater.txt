@@ -1,0 +1,9 @@
+Window安装textlive、ActivePerl_5.16.2.3010812913后，
+输入perl -v，latexmk -v显示相关版本信息则表示安装成功
+
+通过cmdline来编译，方法如下：
+
+cd E:\Documents\013-ustcthesis\ustcthesis-master
+E:
+latexmk main
+即可编译文档
