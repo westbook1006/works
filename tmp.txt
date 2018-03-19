@@ -1,0 +1,8 @@
+@phdthesis{Citation-OpenFlow-Flow,
+  author    =  {俞淑妍},
+  title     =  {基于OpenFlow的软件定义网络缓存加速系统的研究与实现},
+  address   =  {北京},  
+  publisher =  {北京邮电大学},
+  year      =  {2014},
+  type      =  {Thesis}
+}
